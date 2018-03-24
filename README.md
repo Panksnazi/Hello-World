@@ -1,6 +1,3 @@
-# Hello-World
-Just another repository
-Commiting in branch
-Checking again....
+#JavaPrograms
 
-Changes again
+This repository my collections of java programs I used in practising Java
